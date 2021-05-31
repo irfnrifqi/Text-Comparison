@@ -6,5 +6,5 @@ We use 3 different detective fiction books from Gutenburg. We chose "The Adventu
 
 We use only the text from first chapter in each book to simplify the data and store in a csv file called "books.csv" that provided on the hub.
 
-We comparise each top words in any form, created wordclouds, do the TF-IDF Extraction, and also do classification using Naive Bayes classifier.
+We comparise each top words in any form, create wordclouds, do the TF-IDF Extraction, and also do classification using Naive Bayes classifier.
 
